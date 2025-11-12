@@ -1,5 +1,5 @@
 def main() -> int:
-    a = 5
+    a = 10
     b = 10
     return 0
 
